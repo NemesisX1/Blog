@@ -6,7 +6,7 @@ import { PageHead } from './PageHead'
 import styles from './styles.module.css'
 
 export const Page404: React.FC<types.PageProps> = ({ site }) => {
-  const title = site?.name || 'Notion Page Not Found'
+  const title = site?.name || 'Page introuvable'
 
   return (
     <>
