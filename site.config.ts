@@ -20,7 +20,7 @@ export default siteConfig({
   twitter: 'elikemmedehou',
   github: 'NemesisX1',
   linkedin: 'juniormedehou',
-  medium: 'juniormedehou',
+  medium: 'elikemmedehou',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
@@ -28,7 +28,7 @@ export default siteConfig({
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
   defaultPageIcon: null,
-  defaultPageCover: null,
+  defaultPageCover: 'https://blog.elikemmedehou.com/_next/image?url=https%3A%2F%2Fwww.notion.so%2Fimage%2Fhttps%253A%252F%252Fs3-us-west-2.amazonaws.com%252Fsecure.notion-static.com%252Fcf89b071-6417-4fcb-a59d-17380d6f53b1%252FWesite_Banner_(1).png%3Ftable%3Dblock%26id%3D9524a680-bf21-453a-bd49-5be258bbc04e%26cache%3Dv2&w=2048&q=75',
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
